@@ -1,0 +1,17 @@
+body {
+    background-color : black;
+    color : white;
+    text-align : center
+}
+
+h1 {
+    color : blue
+}
+
+h2 {
+    color : purple
+}
+
+.arrondi {
+    border-radius : 100px
+}
